@@ -36,8 +36,8 @@ p{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    max-width: max-content;
-    max-height: max-content;
+    max-width: 50vw;
+    max-height: 100vh;
     background-color: hsl(0, 0%, 100%);
     margin: 2% 41%;
     border-radius: 6%;
